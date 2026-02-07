@@ -1,0 +1,77 @@
+{
+  "book_id": "modernist-european-satirical-prose-class-struggle",
+  "title": "The Unseen Architecture of Servitude",
+  "tagline": "In a Parisian apartment building where every life is curated, the death of a concierge exposes the fragile, brutal machinery of class that operates behind polished brass and silent doors.",
+  "target_words": 76699,
+  "actual_words": 76699,
+  "status": "SEED",
+  "license": "CC0",
+  "themes": [
+    "The Performance of Class",
+    "Servitude and Invisibility",
+    "The Aesthetics of Power",
+    "Mortality in a Managed World"
+  ],
+  "chapters": [
+    {
+      "ch": 1,
+      "title": "A Minor Inconvenience",
+      "words": 6391
+    },
+    {
+      "ch": 2,
+      "title": "The Discreet Odour of Consultation",
+      "words": 6391
+    },
+    {
+      "ch": 3,
+      "title": "The Vulgarity of a Lipstick Stain",
+      "words": 6391
+    },
+    {
+      "ch": 4,
+      "title": "A Coordinate in Negative Space",
+      "words": 6391
+    },
+    {
+      "ch": 5,
+      "title": "The Smell of a Burning Bridge",
+      "words": 6391
+    },
+    {
+      "ch": 6,
+      "title": "Delivery to a Silent Chalet",
+      "words": 6391
+    },
+    {
+      "ch": 7,
+      "title": "The Grammar of Expulsion",
+      "words": 6391
+    },
+    {
+      "ch": 8,
+      "title": "A Geometric Purgatory",
+      "words": 6391
+    },
+    {
+      "ch": 9,
+      "title": "The Smell of the Next Page",
+      "words": 6391
+    },
+    {
+      "ch": 10,
+      "title": "The Architecture of Argument",
+      "words": 6391
+    },
+    {
+      "ch": 11,
+      "title": "Payment in Speckled Eggs",
+      "words": 6391
+    },
+    {
+      "ch": 12,
+      "title": "The Fulcrum of Execution",
+      "words": 6391
+    }
+  ]
+}
